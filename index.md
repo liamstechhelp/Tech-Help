@@ -29,15 +29,15 @@
 
 The best part of my pricing is, if I can't fix it you **pay nothing!**
 
-General Tech Support:               *£25* first hour, *£10* per additional hour (any type of device: desktop/laptop/tablet/tv etc)
+-General Tech Support:               **£25** first hour, **£10** per additional hour (any type of device: desktop/laptop/tablet/tv etc)
 
-Hardware Upgrades/Installation:     *£20* (*£5* per addition item installed)
+-Hardware Upgrades/Installation:     **£20** (*£5* per addition item installed)
 
-Virus, malware, spyware removal:    *£30*
+-Virus, malware, spyware removal:    **£30**
 
-Operating system Installations:     *£20*
+-Operating system Installations:     **£20**
 
-Data Backup:                        *£20*
+-Data Backup:                        **£20**
 
 ### Discounts
 
