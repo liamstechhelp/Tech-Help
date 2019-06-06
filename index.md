@@ -1,8 +1,8 @@
 # Welcome to Liam's Home Tech Support
 
-Friendly, cheap and hassle-free Home Tech Support in Hampshire and West Sussex.
+### Friendly, cheap and hassle-free Home Tech Support in Hampshire and West Sussex.
 
-### Services
+## Services
  
 I can help you with:
 
@@ -26,7 +26,7 @@ I can help you with:
 
 
 
-### Pricing
+## Pricing
 
 The best part of my pricing is, if I can't fix it you **pay nothing!**
 
@@ -40,6 +40,6 @@ The best part of my pricing is, if I can't fix it you **pay nothing!**
 
 -**Data Backup**:                         £20
 
-### Discounts
+## Discounts
 
 If you have any questions please get in contact, prices can be negotiated.  
