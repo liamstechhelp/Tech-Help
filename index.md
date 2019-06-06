@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to Liam's Home Tech Support
 
-You can use the [editor on GitHub](https://github.com/liamstechhelp/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Friendly, cheap and hassle-free Home Tech Support
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I can help you with:
 
-### Markdown
+- Desktops or Laptops
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Windows XP/Vista/7/8,10
 
-```markdown
-Syntax highlighted code block
+- Hardware upgrades such as graphics cards, network and USB, hard drives and SSDs
 
-# Header 1
-## Header 2
-### Header 3
+- Removing Viruses, malware and spyware
 
-- Bulleted
-- List
+- Computer reinstallation
 
-1. Numbered
-2. List
+- Internet/Wifi support
 
-**Bold** and _Italic_ and `Code` text
+- Data Backup (Hard drives etc.)
 
-[Link](url) and ![Image](src)
-```
+- Basic help with mobile phones and tablets
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Basic Mac OSX support
 
-### Jekyll Themes
+### Pricing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liamstechhelp/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The best part of my pricing is, if I can't fix it you **pay nothing!**
