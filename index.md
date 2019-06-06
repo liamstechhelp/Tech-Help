@@ -1,8 +1,13 @@
 # Welcome to Liam's Home Tech Support
 
+
+
 ## Friendly, cheap and hassle-free Home Tech Support
 
-### I can help you with:
+
+
+
+I can help you with:
 
 - Desktops or Laptops
 
@@ -21,6 +26,8 @@
 - Basic help with mobile phones and tablets
 
 - Basic Mac OSX support
+
+
 
 ### Pricing
 
