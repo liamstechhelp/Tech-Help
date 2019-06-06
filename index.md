@@ -1,8 +1,8 @@
 # Welcome to Liam's Home Tech Support
 
- Friendly, cheap and hassle-free Home Tech Support in Hampshire and West Sussex.
- 
- ### Services
+Friendly, cheap and hassle-free Home Tech Support in Hampshire and West Sussex.
+
+### Services
  
 I can help you with:
 
